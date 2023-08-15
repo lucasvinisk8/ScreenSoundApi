@@ -1,0 +1,15 @@
+D:\Aulas dev\C#\ScreenSoundApi\ScreeSound-Api\bin\Debug\net6.0\ScreeSound-Api.exe
+D:\Aulas dev\C#\ScreenSoundApi\ScreeSound-Api\bin\Debug\net6.0\ScreeSound-Api.deps.json
+D:\Aulas dev\C#\ScreenSoundApi\ScreeSound-Api\bin\Debug\net6.0\ScreeSound-Api.runtimeconfig.json
+D:\Aulas dev\C#\ScreenSoundApi\ScreeSound-Api\bin\Debug\net6.0\ScreeSound-Api.dll
+D:\Aulas dev\C#\ScreenSoundApi\ScreeSound-Api\bin\Debug\net6.0\ScreeSound-Api.pdb
+D:\Aulas dev\C#\ScreenSoundApi\ScreeSound-Api\obj\Debug\net6.0\ScreeSound-Api.csproj.AssemblyReference.cache
+D:\Aulas dev\C#\ScreenSoundApi\ScreeSound-Api\obj\Debug\net6.0\ScreeSound-Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas dev\C#\ScreenSoundApi\ScreeSound-Api\obj\Debug\net6.0\ScreeSound-Api.AssemblyInfoInputs.cache
+D:\Aulas dev\C#\ScreenSoundApi\ScreeSound-Api\obj\Debug\net6.0\ScreeSound-Api.AssemblyInfo.cs
+D:\Aulas dev\C#\ScreenSoundApi\ScreeSound-Api\obj\Debug\net6.0\ScreeSound-Api.csproj.CoreCompileInputs.cache
+D:\Aulas dev\C#\ScreenSoundApi\ScreeSound-Api\obj\Debug\net6.0\ScreeSound-Api.dll
+D:\Aulas dev\C#\ScreenSoundApi\ScreeSound-Api\obj\Debug\net6.0\refint\ScreeSound-Api.dll
+D:\Aulas dev\C#\ScreenSoundApi\ScreeSound-Api\obj\Debug\net6.0\ScreeSound-Api.pdb
+D:\Aulas dev\C#\ScreenSoundApi\ScreeSound-Api\obj\Debug\net6.0\ScreeSound-Api.genruntimeconfig.cache
+D:\Aulas dev\C#\ScreenSoundApi\ScreeSound-Api\obj\Debug\net6.0\ref\ScreeSound-Api.dll
