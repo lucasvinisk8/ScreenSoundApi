@@ -1,5 +1,6 @@
 ﻿using ScreeSound_Api.Modelos;
 using System.Text.Json;
+using ScreeSound_Api.Filtros;
 
 using (HttpClient client = new HttpClient())
 {
@@ -7,7 +8,10 @@ using (HttpClient client = new HttpClient())
     {
     string resposta = await client.GetStringAsync("http://guilhermeonrails.github.io/api-csharp-songs/songs.json");
         var musicas = JsonSerializer.Deserialize<List<Musica>>(resposta)!;
-        musicas[25].ExibirDetalhesDaMusica();
+        //LinqFilter.FiltrarTodosOsGenerosMusicais(musicas);
+        //LinqOrder.ExibirListaDeArtistasOrdenados(musicas);
+        //LinqFilter.FiltrarArtistasPorGeneroMusical(musicas, "pop");
+        LinqFilter.FiltrarMusicasDeUmArtista(musicas, "U2");
     }
     catch (Exception ex) 
     {

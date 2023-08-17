@@ -8,19 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Lucas Vinicius\\.nuget\\packages\\": {}
+    "C:\\Users\\lucas.oliveira\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Aulas dev\\C#\\ScreenSoundApi\\ScreeSound-Api\\ScreeSound-Api.csproj",
+      "projectUniqueName": "C:\\Repositorios\\Alura\\CSharp\\ScreenSoundApi\\ScreeSound-Api\\ScreeSound-Api.csproj",
       "projectName": "ScreeSound-Api",
-      "projectPath": "D:\\Aulas dev\\C#\\ScreenSoundApi\\ScreeSound-Api\\ScreeSound-Api.csproj",
-      "packagesPath": "C:\\Users\\Lucas Vinicius\\.nuget\\packages\\",
-      "outputPath": "D:\\Aulas dev\\C#\\ScreenSoundApi\\ScreeSound-Api\\obj\\",
+      "projectPath": "C:\\Repositorios\\Alura\\CSharp\\ScreenSoundApi\\ScreeSound-Api\\ScreeSound-Api.csproj",
+      "packagesPath": "C:\\Users\\lucas.oliveira\\.nuget\\packages\\",
+      "outputPath": "C:\\Repositorios\\Alura\\CSharp\\ScreenSoundApi\\ScreeSound-Api\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Lucas Vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lucas.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

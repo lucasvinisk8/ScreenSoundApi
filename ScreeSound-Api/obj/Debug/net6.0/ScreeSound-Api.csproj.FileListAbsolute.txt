@@ -13,3 +13,18 @@ D:\Aulas dev\C#\ScreenSoundApi\ScreeSound-Api\obj\Debug\net6.0\refint\ScreeSound
 D:\Aulas dev\C#\ScreenSoundApi\ScreeSound-Api\obj\Debug\net6.0\ScreeSound-Api.pdb
 D:\Aulas dev\C#\ScreenSoundApi\ScreeSound-Api\obj\Debug\net6.0\ScreeSound-Api.genruntimeconfig.cache
 D:\Aulas dev\C#\ScreenSoundApi\ScreeSound-Api\obj\Debug\net6.0\ref\ScreeSound-Api.dll
+C:\Repositorios\Alura\CSharp\ScreenSoundApi\ScreeSound-Api\bin\Debug\net6.0\ScreeSound-Api.exe
+C:\Repositorios\Alura\CSharp\ScreenSoundApi\ScreeSound-Api\bin\Debug\net6.0\ScreeSound-Api.deps.json
+C:\Repositorios\Alura\CSharp\ScreenSoundApi\ScreeSound-Api\bin\Debug\net6.0\ScreeSound-Api.runtimeconfig.json
+C:\Repositorios\Alura\CSharp\ScreenSoundApi\ScreeSound-Api\bin\Debug\net6.0\ScreeSound-Api.dll
+C:\Repositorios\Alura\CSharp\ScreenSoundApi\ScreeSound-Api\bin\Debug\net6.0\ScreeSound-Api.pdb
+C:\Repositorios\Alura\CSharp\ScreenSoundApi\ScreeSound-Api\obj\Debug\net6.0\ScreeSound-Api.csproj.AssemblyReference.cache
+C:\Repositorios\Alura\CSharp\ScreenSoundApi\ScreeSound-Api\obj\Debug\net6.0\ScreeSound-Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\Alura\CSharp\ScreenSoundApi\ScreeSound-Api\obj\Debug\net6.0\ScreeSound-Api.AssemblyInfoInputs.cache
+C:\Repositorios\Alura\CSharp\ScreenSoundApi\ScreeSound-Api\obj\Debug\net6.0\ScreeSound-Api.AssemblyInfo.cs
+C:\Repositorios\Alura\CSharp\ScreenSoundApi\ScreeSound-Api\obj\Debug\net6.0\ScreeSound-Api.csproj.CoreCompileInputs.cache
+C:\Repositorios\Alura\CSharp\ScreenSoundApi\ScreeSound-Api\obj\Debug\net6.0\ScreeSound-Api.dll
+C:\Repositorios\Alura\CSharp\ScreenSoundApi\ScreeSound-Api\obj\Debug\net6.0\refint\ScreeSound-Api.dll
+C:\Repositorios\Alura\CSharp\ScreenSoundApi\ScreeSound-Api\obj\Debug\net6.0\ScreeSound-Api.pdb
+C:\Repositorios\Alura\CSharp\ScreenSoundApi\ScreeSound-Api\obj\Debug\net6.0\ScreeSound-Api.genruntimeconfig.cache
+C:\Repositorios\Alura\CSharp\ScreenSoundApi\ScreeSound-Api\obj\Debug\net6.0\ref\ScreeSound-Api.dll
